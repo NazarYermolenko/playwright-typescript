@@ -1,0 +1,19 @@
+{
+  "name": "playwright-typescript",
+  "version": "1.0.0",
+  "description": "UI test automation framework example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NazarYermolenko/playwright-typescript.git"
+  },
+  "author": "Nazar Yermolenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NazarYermolenko/playwright-typescript/issues"
+  },
+  "homepage": "https://github.com/NazarYermolenko/playwright-typescript#readme"
+}
