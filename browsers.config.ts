@@ -19,6 +19,7 @@ const config: PlaywrightTestConfig = {
                 headless: true,
                 viewport: { width: 1280, height: 720 },
                 ignoreHTTPSErrors: true,
+                screenshot: 'only-on-failure',
             },
         },
         {
@@ -28,6 +29,7 @@ const config: PlaywrightTestConfig = {
                 headless: true,
                 viewport: { width: 1280, height: 720 },
                 ignoreHTTPSErrors: true,
+                screenshot: 'only-on-failure',
             },
         },
         {
@@ -37,6 +39,7 @@ const config: PlaywrightTestConfig = {
                 headless: true,
                 viewport: { width: 1280, height: 720 },
                 ignoreHTTPSErrors: true,
+                screenshot: 'only-on-failure',
             },
         },
     ]
